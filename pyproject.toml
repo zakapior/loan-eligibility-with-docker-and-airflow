@@ -1,0 +1,3 @@
+[tool.ruff]
+# PEP8
+line-length = 79
